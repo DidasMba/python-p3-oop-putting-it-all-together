@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "db.pzpzkooabuogpagsncap.supabase.co",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "postgres",
+            "name": "venussuccess",
+            "password": "qgtNomWHe2OjQUn7",
+            "username": "postgres"
+        }
+    ]
+}
